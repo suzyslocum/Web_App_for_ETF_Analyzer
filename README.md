@@ -5,15 +5,15 @@ Module 7 Challenge Assignment
 
 This is a Python application written with Pandas in Jupyter Lab. It uses the Pandas to build a financial database by using SQL and Python to analyze the performance of a hypothetical fintech ETF. We then use the Voilà library to create and deploy a web application. HvPlot is used to create interactive graphs to examine the data.
 
-![voila screenshot 1](/Images.voila1.jpg)
-![voila screenshot 2](/Images.voila2.jpg)
-![voila screenshot 3](/Images.voila3.jpg)
-![voila screenshot 4](/Images.voila4.jpg)
-![voila screenshot 5](/Images.voila5.jpg)
-![voila screenshot 6](/Images.voila6.jpg)
-![voila screenshot 7](/Images.voila7.jpg)
-![voila screenshot 8](/Images.voila8.jpg)
-![voila screenshot 9](/Images.voila9.jpg)
+![voila screenshot 1](/Images/voila1.jpg)
+![voila screenshot 2](/Images/voila2.jpg)
+![voila screenshot 3](/Images/voila3.jpg)
+![voila screenshot 4](/Images/voila4.jpg)
+![voila screenshot 5](/Images/voila5.jpg)
+![voila screenshot 6](/Images/voila6.jpg)
+![voila screenshot 7](/Images/voila7.jpg)
+![voila screenshot 8](/Images/voila8.jpg)
+![voila screenshot 9](/Images/voila9.jpg)
 
 
 ---
