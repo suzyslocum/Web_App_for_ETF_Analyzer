@@ -1,7 +1,6 @@
-# challenge_7
-Module 7 Challenge Assignment
+# Creating a Web Application for an ETF Analyzer
 
-# # Creating a Web Application for an ETF Analyzer
+*Module 7 Challenge Assignment*
 
 This is a Python application written with Pandas in Jupyter Lab. It uses the Pandas to build a financial database by using SQL and Python to analyze the performance of a hypothetical fintech ETF. We then use the Voilà library to create and deploy a web application. HvPlot is used to create interactive graphs to examine the data.
 
